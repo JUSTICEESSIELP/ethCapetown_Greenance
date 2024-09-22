@@ -21,6 +21,9 @@ Greenance is revolutionizing the way we fund climate projects and organizations.
 2. Graph Protocol 
 - Graph Protocol for Analytics to fetch data on campaigns done on the blockchain. To create a robust and scalable client side we have to use the graph protocol to index data to aid in giving a prim and proper UX and UI.
 
+### Graph API 
+ https://api.studio.thegraph.com/query/87334/greenance/0.0.1
+
 
 
 3. Sepolia Testnet Blockchain Network 
