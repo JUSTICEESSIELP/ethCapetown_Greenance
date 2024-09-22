@@ -7,6 +7,11 @@ Greenance is revolutionizing the way we fund climate projects and organizations.
 
 
 
+## Pitch Deck and Video Pitch 
+
+[https://www.canva.com/design/DAGDpQjT5o0/UJI0I8SLjKZPj7148To8ww/edit?utm_content=DAGDpQjT5o0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+
+
 
 
 ## Features And Benefits
