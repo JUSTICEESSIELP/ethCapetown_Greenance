@@ -38,5 +38,5 @@ Greenance is revolutionizing the way we fund climate projects and organizations.
 | Component           | Link                                                                                          |
 | ------------------- | --------------------------------------------------------------------------------------------- |
 | Smart Contracts     | [https://github.com/JUSTICEESSIELP/ethCapetown_GreeanceContract]                              |
-| The Subgraph        | [https://github.com/JUSTICEESSIELP/ethSafari_Gyema_subgraph/blob/master/schema.graphql]       |                                                        
+| The Subgraph        | [https://github.com/JUSTICEESSIELP/ethCapetown_Greenance_Subgraph]                            |                                                        
 | Frontend            | [https://github.com/JUSTICEESSIELP/ethCapetown_GreenanceClient]                               |
