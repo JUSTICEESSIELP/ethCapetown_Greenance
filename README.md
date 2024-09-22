@@ -29,7 +29,6 @@ Greenance is revolutionizing the way we fund climate projects and organizations.
 ## Repository Links
 | Component           | Link                                                                                          |
 | ------------------- | --------------------------------------------------------------------------------------------- |
-| Smart Contracts     | [https://github.com/JUSTICEESSIELP/ethCapetown_GreeanceContract]    
-|
-| The Subgraph        | [https://github.com/JUSTICEESSIELP/ethSafari_Gyema_subgraph/blob/master/schema.graphql]                                                               |
-| Frontend            | [https://github.com/JUSTICEESSIELP/ethCapetown_GreenanceClient]
+| Smart Contracts     | [https://github.com/JUSTICEESSIELP/ethCapetown_GreeanceContract]                              |
+| The Subgraph        | [https://github.com/JUSTICEESSIELP/ethSafari_Gyema_subgraph/blob/master/schema.graphql]       |                                                        
+| Frontend            | [https://github.com/JUSTICEESSIELP/ethCapetown_GreenanceClient]                               |
